@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "cp-case-001",
+    "title": "Token识别案例1",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002438",
+      "cp-q-002429",
+      "cp-q-000878"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-002",
+    "title": "正规式案例2",
+    "description": "通过正规式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003466",
+      "cp-q-000776",
+      "cp-q-001447"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-003",
+    "title": "NFA构造案例3",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002961",
+      "cp-q-000365",
+      "cp-q-000781"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-004",
+    "title": "DFA构造案例4",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003239",
+      "cp-q-001846",
+      "cp-q-002330"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-005",
+    "title": "DFA最小化案例5",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001072",
+      "cp-q-001518",
+      "cp-q-003261"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-006",
+    "title": "左递归消除案例6",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002735",
+      "cp-q-002340",
+      "cp-q-001051"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-007",
+    "title": "左因子提取案例7",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003678",
+      "cp-q-000436",
+      "cp-q-003559"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-008",
+    "title": "FIRST/FOLLOW案例8",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003080",
+      "cp-q-001683",
+      "cp-q-000845"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-009",
+    "title": "LL1表案例9",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002284",
+      "cp-q-001542",
+      "cp-q-000083"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-010",
+    "title": "预测分析案例10",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001507",
+      "cp-q-001883",
+      "cp-q-003178"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-011",
+    "title": "LR项目案例11",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000998",
+      "cp-q-003453",
+      "cp-q-000854"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-012",
+    "title": "语法树案例12",
+    "description": "通过语法树掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002328",
+      "cp-q-000161",
+      "cp-q-002124"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-013",
+    "title": "属性计算案例13",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000509",
+      "cp-q-001145",
+      "cp-q-001825"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-014",
+    "title": "符号表案例14",
+    "description": "通过符号表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002780",
+      "cp-q-003012",
+      "cp-q-003261"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-015",
+    "title": "三地址码案例15",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002626",
+      "cp-q-001540",
+      "cp-q-000727"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-016",
+    "title": "四元式案例16",
+    "description": "通过四元式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002238",
+      "cp-q-000792",
+      "cp-q-001916"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-017",
+    "title": "基本块案例17",
+    "description": "通过基本块掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000527",
+      "cp-q-001868",
+      "cp-q-000717"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-018",
+    "title": "优化案例18",
+    "description": "通过优化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002210",
+      "cp-q-003100",
+      "cp-q-001322"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-019",
+    "title": "词法分析器设计案例19",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003368",
+      "cp-q-001252",
+      "cp-q-002945"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-020",
+    "title": "语法分析器设计案例20",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001687",
+      "cp-q-001272",
+      "cp-q-002018"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-021",
+    "title": "Token识别案例21",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001300",
+      "cp-q-000713",
+      "cp-q-001961"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-022",
+    "title": "正规式案例22",
+    "description": "通过正规式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000143",
+      "cp-q-001350",
+      "cp-q-002611"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-023",
+    "title": "NFA构造案例23",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000727",
+      "cp-q-001952",
+      "cp-q-002999"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-024",
+    "title": "DFA构造案例24",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002768",
+      "cp-q-001579",
+      "cp-q-001561"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-025",
+    "title": "DFA最小化案例25",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002391",
+      "cp-q-002706",
+      "cp-q-001033"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-026",
+    "title": "左递归消除案例26",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003193",
+      "cp-q-001991",
+      "cp-q-000819"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-027",
+    "title": "左因子提取案例27",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001688",
+      "cp-q-002839",
+      "cp-q-002919"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-028",
+    "title": "FIRST/FOLLOW案例28",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001012",
+      "cp-q-001496",
+      "cp-q-002258"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-029",
+    "title": "LL1表案例29",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002735",
+      "cp-q-002612",
+      "cp-q-000442"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-030",
+    "title": "预测分析案例30",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002701",
+      "cp-q-001816",
+      "cp-q-001115"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-031",
+    "title": "LR项目案例31",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001593",
+      "cp-q-001471",
+      "cp-q-002802"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-032",
+    "title": "语法树案例32",
+    "description": "通过语法树掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003070",
+      "cp-q-003609",
+      "cp-q-002845"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-033",
+    "title": "属性计算案例33",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000947",
+      "cp-q-001337",
+      "cp-q-002437"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-034",
+    "title": "符号表案例34",
+    "description": "通过符号表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002686",
+      "cp-q-003274",
+      "cp-q-002800"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-035",
+    "title": "三地址码案例35",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003650",
+      "cp-q-003522",
+      "cp-q-003592"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-036",
+    "title": "四元式案例36",
+    "description": "通过四元式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002190",
+      "cp-q-001952",
+      "cp-q-000793"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-037",
+    "title": "基本块案例37",
+    "description": "通过基本块掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000320",
+      "cp-q-001562",
+      "cp-q-001685"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-038",
+    "title": "优化案例38",
+    "description": "通过优化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003423",
+      "cp-q-001633",
+      "cp-q-000693"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-039",
+    "title": "词法分析器设计案例39",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000120",
+      "cp-q-001013",
+      "cp-q-002974"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-040",
+    "title": "语法分析器设计案例40",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000230",
+      "cp-q-002221",
+      "cp-q-000653"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-041",
+    "title": "Token识别案例41",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001996",
+      "cp-q-000422",
+      "cp-q-003499"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-042",
+    "title": "正规式案例42",
+    "description": "通过正规式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001784",
+      "cp-q-000332",
+      "cp-q-001719"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-043",
+    "title": "NFA构造案例43",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003266",
+      "cp-q-001364",
+      "cp-q-001011"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-044",
+    "title": "DFA构造案例44",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000826",
+      "cp-q-002886",
+      "cp-q-000039"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-045",
+    "title": "DFA最小化案例45",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000378",
+      "cp-q-003279",
+      "cp-q-003507"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-046",
+    "title": "左递归消除案例46",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003532",
+      "cp-q-003651",
+      "cp-q-002662"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-047",
+    "title": "左因子提取案例47",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002204",
+      "cp-q-002313",
+      "cp-q-001046"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-048",
+    "title": "FIRST/FOLLOW案例48",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002124",
+      "cp-q-001855",
+      "cp-q-002087"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-049",
+    "title": "LL1表案例49",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000736",
+      "cp-q-003644",
+      "cp-q-000191"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-050",
+    "title": "预测分析案例50",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002858",
+      "cp-q-002218",
+      "cp-q-002467"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-051",
+    "title": "LR项目案例51",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003430",
+      "cp-q-001035",
+      "cp-q-003214"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-052",
+    "title": "语法树案例52",
+    "description": "通过语法树掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001102",
+      "cp-q-002302",
+      "cp-q-002450"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-053",
+    "title": "属性计算案例53",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001877",
+      "cp-q-001545",
+      "cp-q-003338"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-054",
+    "title": "符号表案例54",
+    "description": "通过符号表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000704",
+      "cp-q-002353",
+      "cp-q-001267"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-055",
+    "title": "三地址码案例55",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003272",
+      "cp-q-001581",
+      "cp-q-002005"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-056",
+    "title": "四元式案例56",
+    "description": "通过四元式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000875",
+      "cp-q-001298",
+      "cp-q-000709"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-057",
+    "title": "基本块案例57",
+    "description": "通过基本块掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003011",
+      "cp-q-002393",
+      "cp-q-003210"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-058",
+    "title": "优化案例58",
+    "description": "通过优化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000796",
+      "cp-q-002178",
+      "cp-q-003468"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-059",
+    "title": "词法分析器设计案例59",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000145",
+      "cp-q-002357",
+      "cp-q-001206"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-060",
+    "title": "语法分析器设计案例60",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000078",
+      "cp-q-003306",
+      "cp-q-002209"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-061",
+    "title": "Token识别案例61",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003048",
+      "cp-q-001969",
+      "cp-q-000741"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-062",
+    "title": "正规式案例62",
+    "description": "通过正规式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002739",
+      "cp-q-000408",
+      "cp-q-000911"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-063",
+    "title": "NFA构造案例63",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002546",
+      "cp-q-000918",
+      "cp-q-000225"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-064",
+    "title": "DFA构造案例64",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001896",
+      "cp-q-002468",
+      "cp-q-000790"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-065",
+    "title": "DFA最小化案例65",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002987",
+      "cp-q-000533",
+      "cp-q-002296"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-066",
+    "title": "左递归消除案例66",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002506",
+      "cp-q-002980",
+      "cp-q-001093"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-067",
+    "title": "左因子提取案例67",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001716",
+      "cp-q-001879",
+      "cp-q-001912"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-068",
+    "title": "FIRST/FOLLOW案例68",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000188",
+      "cp-q-000044",
+      "cp-q-002666"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-069",
+    "title": "LL1表案例69",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000030",
+      "cp-q-000767",
+      "cp-q-000159"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-070",
+    "title": "预测分析案例70",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001928",
+      "cp-q-002033",
+      "cp-q-003062"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-071",
+    "title": "LR项目案例71",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002568",
+      "cp-q-000191",
+      "cp-q-000746"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-072",
+    "title": "语法树案例72",
+    "description": "通过语法树掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003027",
+      "cp-q-002843",
+      "cp-q-000039"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-073",
+    "title": "属性计算案例73",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002730",
+      "cp-q-000054",
+      "cp-q-000009"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-074",
+    "title": "符号表案例74",
+    "description": "通过符号表掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003127",
+      "cp-q-000650",
+      "cp-q-002868"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-075",
+    "title": "三地址码案例75",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003037",
+      "cp-q-000318",
+      "cp-q-000604"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-076",
+    "title": "四元式案例76",
+    "description": "通过四元式掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002802",
+      "cp-q-001488",
+      "cp-q-001370"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-077",
+    "title": "基本块案例77",
+    "description": "通过基本块掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001826",
+      "cp-q-000306",
+      "cp-q-002196"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-078",
+    "title": "优化案例78",
+    "description": "通过优化掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001572",
+      "cp-q-003010",
+      "cp-q-003312"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-079",
+    "title": "词法分析器设计案例79",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002572",
+      "cp-q-002506",
+      "cp-q-001090"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-080",
+    "title": "语法分析器设计案例80",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002198",
+      "cp-q-002187",
+      "cp-q-001827"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-081",
+    "title": "Token识别案例81",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000658",
+      "cp-q-001884",
+      "cp-q-000717"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-082",
+    "title": "正规式案例82",
+    "description": "通过正规式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003188",
+      "cp-q-003162",
+      "cp-q-001507"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-083",
+    "title": "NFA构造案例83",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001198",
+      "cp-q-000224",
+      "cp-q-000988"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-084",
+    "title": "DFA构造案例84",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000266",
+      "cp-q-000654",
+      "cp-q-003097"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-085",
+    "title": "DFA最小化案例85",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001574",
+      "cp-q-001072",
+      "cp-q-002739"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-086",
+    "title": "左递归消除案例86",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000984",
+      "cp-q-001994",
+      "cp-q-002221"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-087",
+    "title": "左因子提取案例87",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000427",
+      "cp-q-003503",
+      "cp-q-002951"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-088",
+    "title": "FIRST/FOLLOW案例88",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001195",
+      "cp-q-002707",
+      "cp-q-001682"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-089",
+    "title": "LL1表案例89",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001634",
+      "cp-q-000678",
+      "cp-q-000648"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-090",
+    "title": "预测分析案例90",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001049",
+      "cp-q-003509",
+      "cp-q-000874"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-091",
+    "title": "LR项目案例91",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003077",
+      "cp-q-001130",
+      "cp-q-002268"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-092",
+    "title": "语法树案例92",
+    "description": "通过语法树掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002328",
+      "cp-q-002253",
+      "cp-q-002377"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-093",
+    "title": "属性计算案例93",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003380",
+      "cp-q-003179",
+      "cp-q-002745"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-094",
+    "title": "符号表案例94",
+    "description": "通过符号表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001660",
+      "cp-q-001289",
+      "cp-q-002255"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-095",
+    "title": "三地址码案例95",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002926",
+      "cp-q-002283",
+      "cp-q-000326"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-096",
+    "title": "四元式案例96",
+    "description": "通过四元式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002539",
+      "cp-q-001083",
+      "cp-q-002186"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-097",
+    "title": "基本块案例97",
+    "description": "通过基本块掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003279",
+      "cp-q-000909",
+      "cp-q-001584"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-098",
+    "title": "优化案例98",
+    "description": "通过优化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001715",
+      "cp-q-002890",
+      "cp-q-001453"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-099",
+    "title": "词法分析器设计案例99",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001776",
+      "cp-q-001010",
+      "cp-q-003456"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-100",
+    "title": "语法分析器设计案例100",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002496",
+      "cp-q-000914",
+      "cp-q-002300"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-101",
+    "title": "Token识别案例101",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003302",
+      "cp-q-000368",
+      "cp-q-003203"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-102",
+    "title": "正规式案例102",
+    "description": "通过正规式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000327",
+      "cp-q-003600",
+      "cp-q-002974"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-103",
+    "title": "NFA构造案例103",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002321",
+      "cp-q-000327",
+      "cp-q-002270"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-104",
+    "title": "DFA构造案例104",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002405",
+      "cp-q-002681",
+      "cp-q-003107"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-105",
+    "title": "DFA最小化案例105",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003222",
+      "cp-q-000106",
+      "cp-q-003651"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-106",
+    "title": "左递归消除案例106",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003532",
+      "cp-q-003380",
+      "cp-q-001007"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-107",
+    "title": "左因子提取案例107",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001812",
+      "cp-q-002891",
+      "cp-q-002235"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-108",
+    "title": "FIRST/FOLLOW案例108",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001271",
+      "cp-q-000249",
+      "cp-q-001365"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-109",
+    "title": "LL1表案例109",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001673",
+      "cp-q-000764",
+      "cp-q-001225"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-110",
+    "title": "预测分析案例110",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000145",
+      "cp-q-000017",
+      "cp-q-001115"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-111",
+    "title": "LR项目案例111",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000574",
+      "cp-q-000903",
+      "cp-q-001628"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-112",
+    "title": "语法树案例112",
+    "description": "通过语法树掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002302",
+      "cp-q-000969",
+      "cp-q-000271"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-113",
+    "title": "属性计算案例113",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000578",
+      "cp-q-002211",
+      "cp-q-003324"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-114",
+    "title": "符号表案例114",
+    "description": "通过符号表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001124",
+      "cp-q-002320",
+      "cp-q-002659"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-115",
+    "title": "三地址码案例115",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000113",
+      "cp-q-000754",
+      "cp-q-002297"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-116",
+    "title": "四元式案例116",
+    "description": "通过四元式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000379",
+      "cp-q-000349",
+      "cp-q-003361"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-117",
+    "title": "基本块案例117",
+    "description": "通过基本块掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003634",
+      "cp-q-003624",
+      "cp-q-001860"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-118",
+    "title": "优化案例118",
+    "description": "通过优化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000829",
+      "cp-q-003468",
+      "cp-q-001721"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-119",
+    "title": "词法分析器设计案例119",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000116",
+      "cp-q-002053",
+      "cp-q-002418"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-120",
+    "title": "语法分析器设计案例120",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002032",
+      "cp-q-000254",
+      "cp-q-001726"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-121",
+    "title": "Token识别案例121",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001485",
+      "cp-q-001969",
+      "cp-q-002489"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-122",
+    "title": "正规式案例122",
+    "description": "通过正规式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000221",
+      "cp-q-000064",
+      "cp-q-000939"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-123",
+    "title": "NFA构造案例123",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001500",
+      "cp-q-003031",
+      "cp-q-003026"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-124",
+    "title": "DFA构造案例124",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002309",
+      "cp-q-001238",
+      "cp-q-001970"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-125",
+    "title": "DFA最小化案例125",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000565",
+      "cp-q-002795",
+      "cp-q-003480"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-126",
+    "title": "左递归消除案例126",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002362",
+      "cp-q-000558",
+      "cp-q-001929"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-127",
+    "title": "左因子提取案例127",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002967",
+      "cp-q-000820",
+      "cp-q-002797"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-128",
+    "title": "FIRST/FOLLOW案例128",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001638",
+      "cp-q-002278",
+      "cp-q-000770"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-129",
+    "title": "LL1表案例129",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001845",
+      "cp-q-003056",
+      "cp-q-000400"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-130",
+    "title": "预测分析案例130",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000481",
+      "cp-q-001232",
+      "cp-q-002465"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-131",
+    "title": "LR项目案例131",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002051",
+      "cp-q-002509",
+      "cp-q-003035"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-132",
+    "title": "语法树案例132",
+    "description": "通过语法树掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000697",
+      "cp-q-002502",
+      "cp-q-002291"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-133",
+    "title": "属性计算案例133",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001632",
+      "cp-q-003206",
+      "cp-q-000639"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-134",
+    "title": "符号表案例134",
+    "description": "通过符号表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001061",
+      "cp-q-000679",
+      "cp-q-000115"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-135",
+    "title": "三地址码案例135",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000517",
+      "cp-q-001678",
+      "cp-q-001032"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-136",
+    "title": "四元式案例136",
+    "description": "通过四元式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002498",
+      "cp-q-000558",
+      "cp-q-003585"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-137",
+    "title": "基本块案例137",
+    "description": "通过基本块掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002297",
+      "cp-q-001982",
+      "cp-q-000315"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-138",
+    "title": "优化案例138",
+    "description": "通过优化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003665",
+      "cp-q-003380",
+      "cp-q-002673"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-139",
+    "title": "词法分析器设计案例139",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002796",
+      "cp-q-001249",
+      "cp-q-003157"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-140",
+    "title": "语法分析器设计案例140",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002452",
+      "cp-q-003202",
+      "cp-q-001492"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-141",
+    "title": "Token识别案例141",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002360",
+      "cp-q-002458",
+      "cp-q-002966"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-142",
+    "title": "正规式案例142",
+    "description": "通过正规式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001110",
+      "cp-q-001740",
+      "cp-q-003110"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-143",
+    "title": "NFA构造案例143",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003547",
+      "cp-q-000417",
+      "cp-q-001731"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-144",
+    "title": "DFA构造案例144",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002716",
+      "cp-q-002858",
+      "cp-q-000751"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-145",
+    "title": "DFA最小化案例145",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001458",
+      "cp-q-001793",
+      "cp-q-002182"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-146",
+    "title": "左递归消除案例146",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003220",
+      "cp-q-003242",
+      "cp-q-002477"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-147",
+    "title": "左因子提取案例147",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001861",
+      "cp-q-003252",
+      "cp-q-001199"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-148",
+    "title": "FIRST/FOLLOW案例148",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002095",
+      "cp-q-001666",
+      "cp-q-001238"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-149",
+    "title": "LL1表案例149",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000568",
+      "cp-q-002477",
+      "cp-q-002408"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-150",
+    "title": "预测分析案例150",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003681",
+      "cp-q-002446",
+      "cp-q-001565"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-151",
+    "title": "LR项目案例151",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001903",
+      "cp-q-002800",
+      "cp-q-000294"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-152",
+    "title": "语法树案例152",
+    "description": "通过语法树掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002145",
+      "cp-q-001983",
+      "cp-q-002538"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-153",
+    "title": "属性计算案例153",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001686",
+      "cp-q-001362",
+      "cp-q-002869"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-154",
+    "title": "符号表案例154",
+    "description": "通过符号表掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002525",
+      "cp-q-001967",
+      "cp-q-002829"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-155",
+    "title": "三地址码案例155",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001643",
+      "cp-q-001728",
+      "cp-q-000767"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-156",
+    "title": "四元式案例156",
+    "description": "通过四元式掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001730",
+      "cp-q-001999",
+      "cp-q-003677"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-157",
+    "title": "基本块案例157",
+    "description": "通过基本块掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003052",
+      "cp-q-000134",
+      "cp-q-002521"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-158",
+    "title": "优化案例158",
+    "description": "通过优化掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000230",
+      "cp-q-003316",
+      "cp-q-002150"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-159",
+    "title": "词法分析器设计案例159",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002700",
+      "cp-q-002679",
+      "cp-q-002981"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-160",
+    "title": "语法分析器设计案例160",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000868",
+      "cp-q-001679",
+      "cp-q-003236"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-161",
+    "title": "Token识别案例161",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001880",
+      "cp-q-001258",
+      "cp-q-000230"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-162",
+    "title": "正规式案例162",
+    "description": "通过正规式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002351",
+      "cp-q-003215",
+      "cp-q-002813"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-163",
+    "title": "NFA构造案例163",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001029",
+      "cp-q-001409",
+      "cp-q-000552"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-164",
+    "title": "DFA构造案例164",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000446",
+      "cp-q-001164",
+      "cp-q-002708"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-165",
+    "title": "DFA最小化案例165",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002090",
+      "cp-q-001479",
+      "cp-q-002863"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-166",
+    "title": "左递归消除案例166",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001152",
+      "cp-q-000723",
+      "cp-q-000353"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-167",
+    "title": "左因子提取案例167",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002241",
+      "cp-q-000343",
+      "cp-q-002453"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-168",
+    "title": "FIRST/FOLLOW案例168",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000876",
+      "cp-q-002903",
+      "cp-q-000432"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-169",
+    "title": "LL1表案例169",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000802",
+      "cp-q-003395",
+      "cp-q-003307"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-170",
+    "title": "预测分析案例170",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001605",
+      "cp-q-003529",
+      "cp-q-002754"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-171",
+    "title": "LR项目案例171",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002165",
+      "cp-q-001614",
+      "cp-q-002957"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-172",
+    "title": "语法树案例172",
+    "description": "通过语法树掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001492",
+      "cp-q-000010",
+      "cp-q-002158"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-173",
+    "title": "属性计算案例173",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002723",
+      "cp-q-002178",
+      "cp-q-003578"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-174",
+    "title": "符号表案例174",
+    "description": "通过符号表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000913",
+      "cp-q-002343",
+      "cp-q-000710"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-175",
+    "title": "三地址码案例175",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000972",
+      "cp-q-001716",
+      "cp-q-000915"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-176",
+    "title": "四元式案例176",
+    "description": "通过四元式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000278",
+      "cp-q-000471",
+      "cp-q-000298"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-177",
+    "title": "基本块案例177",
+    "description": "通过基本块掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002621",
+      "cp-q-001141",
+      "cp-q-001835"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-178",
+    "title": "优化案例178",
+    "description": "通过优化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001622",
+      "cp-q-003370",
+      "cp-q-002506"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-179",
+    "title": "词法分析器设计案例179",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000658",
+      "cp-q-002278",
+      "cp-q-002921"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-180",
+    "title": "语法分析器设计案例180",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000435",
+      "cp-q-000170",
+      "cp-q-002078"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-181",
+    "title": "Token识别案例181",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001756",
+      "cp-q-002757",
+      "cp-q-001116"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-182",
+    "title": "正规式案例182",
+    "description": "通过正规式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003469",
+      "cp-q-002924",
+      "cp-q-003525"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-183",
+    "title": "NFA构造案例183",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002963",
+      "cp-q-003317",
+      "cp-q-000269"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-184",
+    "title": "DFA构造案例184",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003480",
+      "cp-q-001394",
+      "cp-q-002636"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-185",
+    "title": "DFA最小化案例185",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000015",
+      "cp-q-000286",
+      "cp-q-002505"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-186",
+    "title": "左递归消除案例186",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001525",
+      "cp-q-002976",
+      "cp-q-002371"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-187",
+    "title": "左因子提取案例187",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000015",
+      "cp-q-003388",
+      "cp-q-003393"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-188",
+    "title": "FIRST/FOLLOW案例188",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002535",
+      "cp-q-000680",
+      "cp-q-002531"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-189",
+    "title": "LL1表案例189",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000472",
+      "cp-q-000796",
+      "cp-q-002898"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-190",
+    "title": "预测分析案例190",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001573",
+      "cp-q-003410",
+      "cp-q-002101"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-191",
+    "title": "LR项目案例191",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003467",
+      "cp-q-001472",
+      "cp-q-001179"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-192",
+    "title": "语法树案例192",
+    "description": "通过语法树掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001413",
+      "cp-q-000916",
+      "cp-q-000162"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-193",
+    "title": "属性计算案例193",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002133",
+      "cp-q-002518",
+      "cp-q-001960"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-194",
+    "title": "符号表案例194",
+    "description": "通过符号表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002720",
+      "cp-q-001949",
+      "cp-q-003401"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-195",
+    "title": "三地址码案例195",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000460",
+      "cp-q-001861",
+      "cp-q-001001"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-196",
+    "title": "四元式案例196",
+    "description": "通过四元式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003627",
+      "cp-q-001184",
+      "cp-q-000293"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-197",
+    "title": "基本块案例197",
+    "description": "通过基本块掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001143",
+      "cp-q-002095",
+      "cp-q-003367"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-198",
+    "title": "优化案例198",
+    "description": "通过优化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003250",
+      "cp-q-002113",
+      "cp-q-001359"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-199",
+    "title": "词法分析器设计案例199",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003362",
+      "cp-q-003414",
+      "cp-q-001934"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-200",
+    "title": "语法分析器设计案例200",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000806",
+      "cp-q-002787",
+      "cp-q-001709"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-201",
+    "title": "Token识别案例201",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000444",
+      "cp-q-002692",
+      "cp-q-002682"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-202",
+    "title": "正规式案例202",
+    "description": "通过正规式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000489",
+      "cp-q-002581",
+      "cp-q-000241"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-203",
+    "title": "NFA构造案例203",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002204",
+      "cp-q-003692",
+      "cp-q-000807"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-204",
+    "title": "DFA构造案例204",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000573",
+      "cp-q-000134",
+      "cp-q-002207"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-205",
+    "title": "DFA最小化案例205",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001316",
+      "cp-q-001195",
+      "cp-q-003009"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-206",
+    "title": "左递归消除案例206",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001435",
+      "cp-q-003651",
+      "cp-q-002107"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-207",
+    "title": "左因子提取案例207",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002374",
+      "cp-q-002548",
+      "cp-q-000598"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-208",
+    "title": "FIRST/FOLLOW案例208",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001044",
+      "cp-q-003539",
+      "cp-q-000778"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-209",
+    "title": "LL1表案例209",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002996",
+      "cp-q-000914",
+      "cp-q-002762"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-210",
+    "title": "预测分析案例210",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003627",
+      "cp-q-000756",
+      "cp-q-001861"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-211",
+    "title": "LR项目案例211",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002448",
+      "cp-q-000312",
+      "cp-q-003545"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-212",
+    "title": "语法树案例212",
+    "description": "通过语法树掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002813",
+      "cp-q-002119",
+      "cp-q-001628"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-213",
+    "title": "属性计算案例213",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002195",
+      "cp-q-002405",
+      "cp-q-000779"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-214",
+    "title": "符号表案例214",
+    "description": "通过符号表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001422",
+      "cp-q-003601",
+      "cp-q-002948"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-215",
+    "title": "三地址码案例215",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001499",
+      "cp-q-000369",
+      "cp-q-001117"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-216",
+    "title": "四元式案例216",
+    "description": "通过四元式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003667",
+      "cp-q-000604",
+      "cp-q-000666"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-217",
+    "title": "基本块案例217",
+    "description": "通过基本块掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000018",
+      "cp-q-000499",
+      "cp-q-002215"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-218",
+    "title": "优化案例218",
+    "description": "通过优化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002825",
+      "cp-q-001557",
+      "cp-q-002219"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-219",
+    "title": "词法分析器设计案例219",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001629",
+      "cp-q-001515",
+      "cp-q-002608"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-220",
+    "title": "语法分析器设计案例220",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002922",
+      "cp-q-003141",
+      "cp-q-001296"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-221",
+    "title": "Token识别案例221",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002730",
+      "cp-q-000584",
+      "cp-q-000817"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-222",
+    "title": "正规式案例222",
+    "description": "通过正规式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002620",
+      "cp-q-000454",
+      "cp-q-000253"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-223",
+    "title": "NFA构造案例223",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000436",
+      "cp-q-003038",
+      "cp-q-001260"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-224",
+    "title": "DFA构造案例224",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000132",
+      "cp-q-003582",
+      "cp-q-001392"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-225",
+    "title": "DFA最小化案例225",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000782",
+      "cp-q-001508",
+      "cp-q-003677"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-226",
+    "title": "左递归消除案例226",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002988",
+      "cp-q-003452",
+      "cp-q-001965"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-227",
+    "title": "左因子提取案例227",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001869",
+      "cp-q-002166",
+      "cp-q-001662"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-228",
+    "title": "FIRST/FOLLOW案例228",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002096",
+      "cp-q-002795",
+      "cp-q-000804"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-229",
+    "title": "LL1表案例229",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000017",
+      "cp-q-002222",
+      "cp-q-003169"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-230",
+    "title": "预测分析案例230",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000294",
+      "cp-q-002902",
+      "cp-q-000255"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-231",
+    "title": "LR项目案例231",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002367",
+      "cp-q-002259",
+      "cp-q-003545"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-232",
+    "title": "语法树案例232",
+    "description": "通过语法树掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003465",
+      "cp-q-003342",
+      "cp-q-002155"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-233",
+    "title": "属性计算案例233",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001844",
+      "cp-q-001826",
+      "cp-q-001640"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-234",
+    "title": "符号表案例234",
+    "description": "通过符号表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000016",
+      "cp-q-003665",
+      "cp-q-003592"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-235",
+    "title": "三地址码案例235",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002053",
+      "cp-q-000383",
+      "cp-q-003256"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-236",
+    "title": "四元式案例236",
+    "description": "通过四元式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002816",
+      "cp-q-002928",
+      "cp-q-002988"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-237",
+    "title": "基本块案例237",
+    "description": "通过基本块掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003207",
+      "cp-q-001338",
+      "cp-q-002364"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-238",
+    "title": "优化案例238",
+    "description": "通过优化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002445",
+      "cp-q-000353",
+      "cp-q-001664"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-239",
+    "title": "词法分析器设计案例239",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003572",
+      "cp-q-001152",
+      "cp-q-001427"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-240",
+    "title": "语法分析器设计案例240",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001830",
+      "cp-q-000463",
+      "cp-q-003188"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-241",
+    "title": "Token识别案例241",
+    "description": "通过Token识别掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002434",
+      "cp-q-002193",
+      "cp-q-002731"
+    ],
+    "tags": [
+      "Token识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-242",
+    "title": "正规式案例242",
+    "description": "通过正规式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001561",
+      "cp-q-002477",
+      "cp-q-003469"
+    ],
+    "tags": [
+      "正规式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-243",
+    "title": "NFA构造案例243",
+    "description": "通过NFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000657",
+      "cp-q-001406",
+      "cp-q-002068"
+    ],
+    "tags": [
+      "NFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-244",
+    "title": "DFA构造案例244",
+    "description": "通过DFA构造掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003331",
+      "cp-q-000308",
+      "cp-q-000712"
+    ],
+    "tags": [
+      "DFA构造"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-245",
+    "title": "DFA最小化案例245",
+    "description": "通过DFA最小化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001727",
+      "cp-q-002104",
+      "cp-q-001098"
+    ],
+    "tags": [
+      "DFA最小化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-246",
+    "title": "左递归消除案例246",
+    "description": "通过左递归消除掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000957",
+      "cp-q-001608",
+      "cp-q-002740"
+    ],
+    "tags": [
+      "左递归消除"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-247",
+    "title": "左因子提取案例247",
+    "description": "通过左因子提取掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002562",
+      "cp-q-001705",
+      "cp-q-002532"
+    ],
+    "tags": [
+      "左因子提取"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-248",
+    "title": "FIRST/FOLLOW案例248",
+    "description": "通过FIRST/FOLLOW掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002989",
+      "cp-q-001380",
+      "cp-q-001722"
+    ],
+    "tags": [
+      "FIRST/FOLLOW"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-249",
+    "title": "LL1表案例249",
+    "description": "通过LL1表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003169",
+      "cp-q-003128",
+      "cp-q-001483"
+    ],
+    "tags": [
+      "LL1表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-250",
+    "title": "预测分析案例250",
+    "description": "通过预测分析掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002731",
+      "cp-q-001420",
+      "cp-q-002780"
+    ],
+    "tags": [
+      "预测分析"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-251",
+    "title": "LR项目案例251",
+    "description": "通过LR项目掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002479",
+      "cp-q-003278",
+      "cp-q-003111"
+    ],
+    "tags": [
+      "LR项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-252",
+    "title": "语法树案例252",
+    "description": "通过语法树掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003625",
+      "cp-q-001072",
+      "cp-q-000852"
+    ],
+    "tags": [
+      "语法树"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-253",
+    "title": "属性计算案例253",
+    "description": "通过属性计算掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000517",
+      "cp-q-000058",
+      "cp-q-002128"
+    ],
+    "tags": [
+      "属性计算"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-254",
+    "title": "符号表案例254",
+    "description": "通过符号表掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001495",
+      "cp-q-000376",
+      "cp-q-003192"
+    ],
+    "tags": [
+      "符号表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-255",
+    "title": "三地址码案例255",
+    "description": "通过三地址码掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-001717",
+      "cp-q-000346",
+      "cp-q-003499"
+    ],
+    "tags": [
+      "三地址码"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-256",
+    "title": "四元式案例256",
+    "description": "通过四元式掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000832",
+      "cp-q-000131",
+      "cp-q-002659"
+    ],
+    "tags": [
+      "四元式"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-257",
+    "title": "基本块案例257",
+    "description": "通过基本块掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002257",
+      "cp-q-001200",
+      "cp-q-000511"
+    ],
+    "tags": [
+      "基本块"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-258",
+    "title": "优化案例258",
+    "description": "通过优化掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-003230",
+      "cp-q-000366",
+      "cp-q-001428"
+    ],
+    "tags": [
+      "优化"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-259",
+    "title": "词法分析器设计案例259",
+    "description": "通过词法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-002142",
+      "cp-q-001229",
+      "cp-q-002281"
+    ],
+    "tags": [
+      "词法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "cp-case-260",
+    "title": "语法分析器设计案例260",
+    "description": "通过语法分析器设计掌握CP",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "构造"
+      },
+      {
+        "order": 3,
+        "title": "求解",
+        "description": "计算"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "cp-q-000455",
+      "cp-q-001497",
+      "cp-q-001068"
+    ],
+    "tags": [
+      "语法分析器设计"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
